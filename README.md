@@ -18,6 +18,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [C Programlama](http://www.ibrahimbayraktar.net/p/c-programlama.html) (İbrahim Bayraktar)
 * [C Programlama](https://www.bilgigunlugum.net/prog/cprog/c_proggiris) (Bilgi Günlüğüm)
 * [C Kütüphanesi](http://www.ckutuphanesi.com/)(Umut Gürel Gürler)
+* [C Programlama Dili](https://tr.wikibooks.org/wiki/Kategori:C_Programlama_Dili)
 
 
 
@@ -25,8 +26,15 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [60 Derste C Programlamaya Giriş](https://www.youtube.com/playlist?list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3) (Murat Yücedağ)
 * [C Programlama Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql) (Yazılım Bilimi)
 * [C Programlama Dili](https://www.youtube.com/playlist?list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i)(Volkan Kılıç)
-## Bloglar
 
+## Örnekler
+* [C-Programlama-Ornekleri](https://github.com/arslanaybars/C-Programlama-Ornekleri)
+* [digitalders.com](https://www.dijitalders.com/icerik/114/5571/c_programlama_ornekleri.html)
+
+## Bloglar
+* [Cagataycebi.com](http://www.cagataycebi.com/)
+* [dijitalders.com](https://www.dijitalders.com/icerik_listesi/106/c_dersleri.html)
+* [huseyincakir.org](http://www.huseyincakir.org/category/c-programlama-dili/)
 ## Siteler
 
 ## Kitaplar
