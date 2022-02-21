@@ -30,6 +30,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ## Örnekler
 * [C-Programlama-Ornekleri](https://github.com/arslanaybars/C-Programlama-Ornekleri)
 * [digitalders.com](https://www.dijitalders.com/icerik/114/5571/c_programlama_ornekleri.html)
+* [evrenselkod.com](https://www.evrenselkod.com/c-programlama-ornekleri/)
 
 ## Bloglar
 * [Cagataycebi.com](http://www.cagataycebi.com/)
